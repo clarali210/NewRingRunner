@@ -12,6 +12,7 @@ public class PlayerBehavior : MonoBehaviour {
 	
 	// Update is called once per frame
 	void FixedUpdate () {
+		transform.Translate (-Vector3.right * 5 * Time.deltaTime);
 		rb.AddForce((planet.transform.position - transform.position).normalized * acceleration);
 	}
 }
