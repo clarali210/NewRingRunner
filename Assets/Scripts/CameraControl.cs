@@ -33,6 +33,5 @@ public class CameraControl : MonoBehaviour {
 		averagePos.z = transform.position.z;
 		// The desired position is the average position;
 		m_DesiredPosition = averagePos;
-		Debug.Log (m_DesiredPosition);
 	}
 }

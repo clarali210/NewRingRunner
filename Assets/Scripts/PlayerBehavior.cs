@@ -14,9 +14,17 @@ public class PlayerBehavior : MonoBehaviour {
 	void FixedUpdate () {
 		if (Input.GetKey (KeyCode.Space)) {
 			Debug.Log (5);
-			transform.Translate (Vector3.up*10*Time.deltaTime);
+			//Vector3 op = transform.position;
+			//transform.position = new Vector3(op.x, op.y+0.5f, op.z);
 		}
-		transform.Translate (-Vector3.right * 5 * Time.deltaTime);
-		rb.AddForce((planet.transform.position - transform.position).normalized * acceleration);
+		//transform.Translate (-Vector3.right * 5 * Time.deltaTime);
+
+		Vector3 posDiff = planet.transform.position - transform.position;
+		Vector3 perpendicular = new Vector3 (-posDiff.y, posDiff.x, posDiff.z);
+
+		rb.velocity = perpendicular.normalized * 5;
+
+		rb.AddForce(posDiff.normalized * acceleration);
+		//rb.AddForce (perpendicular.normalized * 5);
 	}
 }
