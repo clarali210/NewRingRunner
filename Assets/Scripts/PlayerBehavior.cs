@@ -12,6 +12,10 @@ public class PlayerBehavior : MonoBehaviour {
 	
 	// Update is called once per frame
 	void FixedUpdate () {
+		if (Input.GetKey (KeyCode.Space)) {
+			Debug.Log (5);
+			transform.Translate (Vector3.up*10*Time.deltaTime);
+		}
 		transform.Translate (-Vector3.right * 5 * Time.deltaTime);
 		rb.AddForce((planet.transform.position - transform.position).normalized * acceleration);
 	}
