@@ -12,7 +12,7 @@ public class Obstacles : MonoBehaviour {
 	}
 
 	void OnCollisionEnter2D(Collision2D obs){
-		if (obs.gameObject.name == "Obstacles") {
+		if (obs.gameObject.name.Contains("Obstacle")) {
 			Destroy (this.gameObject);
 		}
 	}
