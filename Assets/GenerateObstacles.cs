@@ -31,7 +31,7 @@ public class GenerateObstacles : MonoBehaviour {
 	void Update () {
 		if (numToSpawn > numSpawned) 
 		{
-			int x = Random.Range ();
+			int x = Random.Range(0, 1);
 			//where your instantiated object spawns from
 			transform.position = new Vector3(2, 3, 0);
 			SpawnObstacle ();
