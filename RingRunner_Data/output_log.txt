@@ -1,0 +1,1835 @@
+Initialize engine version: 5.6.1f1 (2860b30f0b54)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GT 750M (ID=0xfe4)
+    Vendor:   NVIDIA
+    VRAM:     2019 MB
+    Driver:   21.21.13.6909
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Clara\Desktop\NewRingRunner-master\RingRunner_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Clara\Desktop\NewRingRunner-master\RingRunner_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Clara\Desktop\NewRingRunner-master\RingRunner_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Clara\Desktop\NewRingRunner-master\RingRunner_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Clara\Desktop\NewRingRunner-master\RingRunner_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Clara\Desktop\NewRingRunner-master\RingRunner_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Clara\Desktop\NewRingRunner-master\RingRunner_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Clara\Desktop\NewRingRunner-master\RingRunner_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.035 seconds
+Platform assembly: C:\Users\Clara\Desktop\NewRingRunner-master\RingRunner_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Clara\Desktop\NewRingRunner-master\RingRunner_Data\Managed\System.dll (this message is harmless)
+desktop: 3200x1800 60Hz; virtual: 3200x1800 at 0,0
+<RI> Initializing input.
+XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 3.184070 ms
+5
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+5
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+5
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+5
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+5
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+5
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+5
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+5
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+5
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+5
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Transform:INTERNAL_get_position (UnityEngine.Vector3&)
+  at UnityEngine.Transform.get_position () [0x00000] in <filename unknown>:0 
+  at CameraControl.FindAveragePosition () [0x00000] in <filename unknown>:0 
+  at CameraControl.Move () [0x00000] in <filename unknown>:0 
+  at CameraControl.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Transform:INTERNAL_get_position (UnityEngine.Vector3&)
+  at UnityEngine.Transform.get_position () [0x00000] in <filename unknown>:0 
+  at CameraControl.FindAveragePosition () [0x00000] in <filename unknown>:0 
+  at CameraControl.Move () [0x00000] in <filename unknown>:0 
+  at CameraControl.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Transform:INTERNAL_get_position (UnityEngine.Vector3&)
+  at UnityEngine.Transform.get_position () [0x00000] in <filename unknown>:0 
+  at CameraControl.FindAveragePosition () [0x00000] in <filename unknown>:0 
+  at CameraControl.Move () [0x00000] in <filename unknown>:0 
+  at CameraControl.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Transform:INTERNAL_get_position (UnityEngine.Vector3&)
+  at UnityEngine.Transform.get_position () [0x00000] in <filename unknown>:0 
+  at CameraControl.FindAveragePosition () [0x00000] in <filename unknown>:0 
+  at CameraControl.Move () [0x00000] in <filename unknown>:0 
+  at CameraControl.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Transform:INTERNAL_get_position (UnityEngine.Vector3&)
+  at UnityEngine.Transform.get_position () [0x00000] in <filename unknown>:0 
+  at CameraControl.FindAveragePosition () [0x00000] in <filename unknown>:0 
+  at CameraControl.Move () [0x00000] in <filename unknown>:0 
+  at CameraControl.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Transform:INTERNAL_get_position (UnityEngine.Vector3&)
+  at UnityEngine.Transform.get_position () [0x00000] in <filename unknown>:0 
+  at CameraControl.FindAveragePosition () [0x00000] in <filename unknown>:0 
+  at CameraControl.Move () [0x00000] in <filename unknown>:0 
+  at CameraControl.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Transform:INTERNAL_get_position (UnityEngine.Vector3&)
+  at UnityEngine.Transform.get_position () [0x00000] in <filename unknown>:0 
+  at CameraControl.FindAveragePosition () [0x00000] in <filename unknown>:0 
+  at CameraControl.Move () [0x00000] in <filename unknown>:0 
+  at CameraControl.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Transform:INTERNAL_get_position (UnityEngine.Vector3&)
+  at UnityEngine.Transform.get_position () [0x00000] in <filename unknown>:0 
+  at CameraControl.FindAveragePosition () [0x00000] in <filename unknown>:0 
+  at CameraControl.Move () [0x00000] in <filename unknown>:0 
+  at CameraControl.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Transform:INTERNAL_get_position (UnityEngine.Vector3&)
+  at UnityEngine.Transform.get_position () [0x00000] in <filename unknown>:0 
+  at CameraControl.FindAveragePosition () [0x00000] in <filename unknown>:0 
+  at CameraControl.Move () [0x00000] in <filename unknown>:0 
+  at CameraControl.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Transform:INTERNAL_get_position (UnityEngine.Vector3&)
+  at UnityEngine.Transform.get_position () [0x00000] in <filename unknown>:0 
+  at CameraControl.FindAveragePosition () [0x00000] in <filename unknown>:0 
+  at CameraControl.Move () [0x00000] in <filename unknown>:0 
+  at CameraControl.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Transform:INTERNAL_get_position (UnityEngine.Vector3&)
+  at UnityEngine.Transform.get_position () [0x00000] in <filename unknown>:0 
+  at CameraControl.FindAveragePosition () [0x00000] in <filename unknown>:0 
+  at CameraControl.Move () [0x00000] in <filename unknown>:0 
+  at CameraControl.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Transform:INTERNAL_get_position (UnityEngine.Vector3&)
+  at UnityEngine.Transform.get_position () [0x00000] in <filename unknown>:0 
+  at CameraControl.FindAveragePosition () [0x00000] in <filename unknown>:0 
+  at CameraControl.Move () [0x00000] in <filename unknown>:0 
+  at CameraControl.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Transform:INTERNAL_get_position (UnityEngine.Vector3&)
+  at UnityEngine.Transform.get_position () [0x00000] in <filename unknown>:0 
+  at CameraControl.FindAveragePosition () [0x00000] in <filename unknown>:0 
+  at CameraControl.Move () [0x00000] in <filename unknown>:0 
+  at CameraControl.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Transform:INTERNAL_get_position (UnityEngine.Vector3&)
+  at UnityEngine.Transform.get_position () [0x00000] in <filename unknown>:0 
+  at CameraControl.FindAveragePosition () [0x00000] in <filename unknown>:0 
+  at CameraControl.Move () [0x00000] in <filename unknown>:0 
+  at CameraControl.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Transform:INTERNAL_get_position (UnityEngine.Vector3&)
+  at UnityEngine.Transform.get_position () [0x00000] in <filename unknown>:0 
+  at CameraControl.FindAveragePosition () [0x00000] in <filename unknown>:0 
+  at CameraControl.Move () [0x00000] in <filename unknown>:0 
+  at CameraControl.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Transform:INTERNAL_get_position (UnityEngine.Vector3&)
+  at UnityEngine.Transform.get_position () [0x00000] in <filename unknown>:0 
+  at CameraControl.FindAveragePosition () [0x00000] in <filename unknown>:0 
+  at CameraControl.Move () [0x00000] in <filename unknown>:0 
+  at CameraControl.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Transform:INTERNAL_get_position (UnityEngine.Vector3&)
+  at UnityEngine.Transform.get_position () [0x00000] in <filename unknown>:0 
+  at CameraControl.FindAveragePosition () [0x00000] in <filename unknown>:0 
+  at CameraControl.Move () [0x00000] in <filename unknown>:0 
+  at CameraControl.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Transform:INTERNAL_get_position (UnityEngine.Vector3&)
+  at UnityEngine.Transform.get_position () [0x00000] in <filename unknown>:0 
+  at CameraControl.FindAveragePosition () [0x00000] in <filename unknown>:0 
+  at CameraControl.Move () [0x00000] in <filename unknown>:0 
+  at CameraControl.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Transform:INTERNAL_get_position (UnityEngine.Vector3&)
+  at UnityEngine.Transform.get_position () [0x00000] in <filename unknown>:0 
+  at CameraControl.FindAveragePosition () [0x00000] in <filename unknown>:0 
+  at CameraControl.Move () [0x00000] in <filename unknown>:0 
+  at CameraControl.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Transform:INTERNAL_get_position (UnityEngine.Vector3&)
+  at UnityEngine.Transform.get_position () [0x00000] in <filename unknown>:0 
+  at CameraControl.FindAveragePosition () [0x00000] in <filename unknown>:0 
+  at CameraControl.Move () [0x00000] in <filename unknown>:0 
+  at CameraControl.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Transform:INTERNAL_get_position (UnityEngine.Vector3&)
+  at UnityEngine.Transform.get_position () [0x00000] in <filename unknown>:0 
+  at CameraControl.FindAveragePosition () [0x00000] in <filename unknown>:0 
+  at CameraControl.Move () [0x00000] in <filename unknown>:0 
+  at CameraControl.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Transform:INTERNAL_get_position (UnityEngine.Vector3&)
+  at UnityEngine.Transform.get_position () [0x00000] in <filename unknown>:0 
+  at CameraControl.FindAveragePosition () [0x00000] in <filename unknown>:0 
+  at CameraControl.Move () [0x00000] in <filename unknown>:0 
+  at CameraControl.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Transform:INTERNAL_get_position (UnityEngine.Vector3&)
+  at UnityEngine.Transform.get_position () [0x00000] in <filename unknown>:0 
+  at CameraControl.FindAveragePosition () [0x00000] in <filename unknown>:0 
+  at CameraControl.Move () [0x00000] in <filename unknown>:0 
+  at CameraControl.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Transform:INTERNAL_get_position (UnityEngine.Vector3&)
+  at UnityEngine.Transform.get_position () [0x00000] in <filename unknown>:0 
+  at CameraControl.FindAveragePosition () [0x00000] in <filename unknown>:0 
+  at CameraControl.Move () [0x00000] in <filename unknown>:0 
+  at CameraControl.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Transform:INTERNAL_get_position (UnityEngine.Vector3&)
+  at UnityEngine.Transform.get_position () [0x00000] in <filename unknown>:0 
+  at CameraControl.FindAveragePosition () [0x00000] in <filename unknown>:0 
+  at CameraControl.Move () [0x00000] in <filename unknown>:0 
+  at CameraControl.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Transform:INTERNAL_get_position (UnityEngine.Vector3&)
+  at UnityEngine.Transform.get_position () [0x00000] in <filename unknown>:0 
+  at CameraControl.FindAveragePosition () [0x00000] in <filename unknown>:0 
+  at CameraControl.Move () [0x00000] in <filename unknown>:0 
+  at CameraControl.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Transform:INTERNAL_get_position (UnityEngine.Vector3&)
+  at UnityEngine.Transform.get_position () [0x00000] in <filename unknown>:0 
+  at CameraControl.FindAveragePosition () [0x00000] in <filename unknown>:0 
+  at CameraControl.Move () [0x00000] in <filename unknown>:0 
+  at CameraControl.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Transform:INTERNAL_get_position (UnityEngine.Vector3&)
+  at UnityEngine.Transform.get_position () [0x00000] in <filename unknown>:0 
+  at CameraControl.FindAveragePosition () [0x00000] in <filename unknown>:0 
+  at CameraControl.Move () [0x00000] in <filename unknown>:0 
+  at CameraControl.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Transform:INTERNAL_get_position (UnityEngine.Vector3&)
+  at UnityEngine.Transform.get_position () [0x00000] in <filename unknown>:0 
+  at CameraControl.FindAveragePosition () [0x00000] in <filename unknown>:0 
+  at CameraControl.Move () [0x00000] in <filename unknown>:0 
+  at CameraControl.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Transform:INTERNAL_get_position (UnityEngine.Vector3&)
+  at UnityEngine.Transform.get_position () [0x00000] in <filename unknown>:0 
+  at CameraControl.FindAveragePosition () [0x00000] in <filename unknown>:0 
+  at CameraControl.Move () [0x00000] in <filename unknown>:0 
+  at CameraControl.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Transform:INTERNAL_get_position (UnityEngine.Vector3&)
+  at UnityEngine.Transform.get_position () [0x00000] in <filename unknown>:0 
+  at CameraControl.FindAveragePosition () [0x00000] in <filename unknown>:0 
+  at CameraControl.Move () [0x00000] in <filename unknown>:0 
+  at CameraControl.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Transform:INTERNAL_get_position (UnityEngine.Vector3&)
+  at UnityEngine.Transform.get_position () [0x00000] in <filename unknown>:0 
+  at CameraControl.FindAveragePosition () [0x00000] in <filename unknown>:0 
+  at CameraControl.Move () [0x00000] in <filename unknown>:0 
+  at CameraControl.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Transform:INTERNAL_get_position (UnityEngine.Vector3&)
+  at UnityEngine.Transform.get_position () [0x00000] in <filename unknown>:0 
+  at CameraControl.FindAveragePosition () [0x00000] in <filename unknown>:0 
+  at CameraControl.Move () [0x00000] in <filename unknown>:0 
+  at CameraControl.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Transform:INTERNAL_get_position (UnityEngine.Vector3&)
+  at UnityEngine.Transform.get_position () [0x00000] in <filename unknown>:0 
+  at CameraControl.FindAveragePosition () [0x00000] in <filename unknown>:0 
+  at CameraControl.Move () [0x00000] in <filename unknown>:0 
+  at CameraControl.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Transform:INTERNAL_get_position (UnityEngine.Vector3&)
+  at UnityEngine.Transform.get_position () [0x00000] in <filename unknown>:0 
+  at CameraControl.FindAveragePosition () [0x00000] in <filename unknown>:0 
+  at CameraControl.Move () [0x00000] in <filename unknown>:0 
+  at CameraControl.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Transform:INTERNAL_get_position (UnityEngine.Vector3&)
+  at UnityEngine.Transform.get_position () [0x00000] in <filename unknown>:0 
+  at CameraControl.FindAveragePosition () [0x00000] in <filename unknown>:0 
+  at CameraControl.Move () [0x00000] in <filename unknown>:0 
+  at CameraControl.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Transform:INTERNAL_get_position (UnityEngine.Vector3&)
+  at UnityEngine.Transform.get_position () [0x00000] in <filename unknown>:0 
+  at CameraControl.FindAveragePosition () [0x00000] in <filename unknown>:0 
+  at CameraControl.Move () [0x00000] in <filename unknown>:0 
+  at CameraControl.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Transform:INTERNAL_get_position (UnityEngine.Vector3&)
+  at UnityEngine.Transform.get_position () [0x00000] in <filename unknown>:0 
+  at CameraControl.FindAveragePosition () [0x00000] in <filename unknown>:0 
+  at CameraControl.Move () [0x00000] in <filename unknown>:0 
+  at CameraControl.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Transform:INTERNAL_get_position (UnityEngine.Vector3&)
+  at UnityEngine.Transform.get_position () [0x00000] in <filename unknown>:0 
+  at CameraControl.FindAveragePosition () [0x00000] in <filename unknown>:0 
+  at CameraControl.Move () [0x00000] in <filename unknown>:0 
+  at CameraControl.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Transform:INTERNAL_get_position (UnityEngine.Vector3&)
+  at UnityEngine.Transform.get_position () [0x00000] in <filename unknown>:0 
+  at CameraControl.FindAveragePosition () [0x00000] in <filename unknown>:0 
+  at CameraControl.Move () [0x00000] in <filename unknown>:0 
+  at CameraControl.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Transform:INTERNAL_get_position (UnityEngine.Vector3&)
+  at UnityEngine.Transform.get_position () [0x00000] in <filename unknown>:0 
+  at CameraControl.FindAveragePosition () [0x00000] in <filename unknown>:0 
+  at CameraControl.Move () [0x00000] in <filename unknown>:0 
+  at CameraControl.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Transform:INTERNAL_get_position (UnityEngine.Vector3&)
+  at UnityEngine.Transform.get_position () [0x00000] in <filename unknown>:0 
+  at CameraControl.FindAveragePosition () [0x00000] in <filename unknown>:0 
+  at CameraControl.Move () [0x00000] in <filename unknown>:0 
+  at CameraControl.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Transform:INTERNAL_get_position (UnityEngine.Vector3&)
+  at UnityEngine.Transform.get_position () [0x00000] in <filename unknown>:0 
+  at CameraControl.FindAveragePosition () [0x00000] in <filename unknown>:0 
+  at CameraControl.Move () [0x00000] in <filename unknown>:0 
+  at CameraControl.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Transform:INTERNAL_get_position (UnityEngine.Vector3&)
+  at UnityEngine.Transform.get_position () [0x00000] in <filename unknown>:0 
+  at CameraControl.FindAveragePosition () [0x00000] in <filename unknown>:0 
+  at CameraControl.Move () [0x00000] in <filename unknown>:0 
+  at CameraControl.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Transform:INTERNAL_get_position (UnityEngine.Vector3&)
+  at UnityEngine.Transform.get_position () [0x00000] in <filename unknown>:0 
+  at CameraControl.FindAveragePosition () [0x00000] in <filename unknown>:0 
+  at CameraControl.Move () [0x00000] in <filename unknown>:0 
+  at CameraControl.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Transform:INTERNAL_get_position (UnityEngine.Vector3&)
+  at UnityEngine.Transform.get_position () [0x00000] in <filename unknown>:0 
+  at CameraControl.FindAveragePosition () [0x00000] in <filename unknown>:0 
+  at CameraControl.Move () [0x00000] in <filename unknown>:0 
+  at CameraControl.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Transform:INTERNAL_get_position (UnityEngine.Vector3&)
+  at UnityEngine.Transform.get_position () [0x00000] in <filename unknown>:0 
+  at CameraControl.FindAveragePosition () [0x00000] in <filename unknown>:0 
+  at CameraControl.Move () [0x00000] in <filename unknown>:0 
+  at CameraControl.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Transform:INTERNAL_get_position (UnityEngine.Vector3&)
+  at UnityEngine.Transform.get_position () [0x00000] in <filename unknown>:0 
+  at CameraControl.FindAveragePosition () [0x00000] in <filename unknown>:0 
+  at CameraControl.Move () [0x00000] in <filename unknown>:0 
+  at CameraControl.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Transform:INTERNAL_get_position (UnityEngine.Vector3&)
+  at UnityEngine.Transform.get_position () [0x00000] in <filename unknown>:0 
+  at CameraControl.FindAveragePosition () [0x00000] in <filename unknown>:0 
+  at CameraControl.Move () [0x00000] in <filename unknown>:0 
+  at CameraControl.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Transform:INTERNAL_get_position (UnityEngine.Vector3&)
+  at UnityEngine.Transform.get_position () [0x00000] in <filename unknown>:0 
+  at CameraControl.FindAveragePosition () [0x00000] in <filename unknown>:0 
+  at CameraControl.Move () [0x00000] in <filename unknown>:0 
+  at CameraControl.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Transform:INTERNAL_get_position (UnityEngine.Vector3&)
+  at UnityEngine.Transform.get_position () [0x00000] in <filename unknown>:0 
+  at CameraControl.FindAveragePosition () [0x00000] in <filename unknown>:0 
+  at CameraControl.Move () [0x00000] in <filename unknown>:0 
+  at CameraControl.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Transform:INTERNAL_get_position (UnityEngine.Vector3&)
+  at UnityEngine.Transform.get_position () [0x00000] in <filename unknown>:0 
+  at CameraControl.FindAveragePosition () [0x00000] in <filename unknown>:0 
+  at CameraControl.Move () [0x00000] in <filename unknown>:0 
+  at CameraControl.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Transform:INTERNAL_get_position (UnityEngine.Vector3&)
+  at UnityEngine.Transform.get_position () [0x00000] in <filename unknown>:0 
+  at CameraControl.FindAveragePosition () [0x00000] in <filename unknown>:0 
+  at CameraControl.Move () [0x00000] in <filename unknown>:0 
+  at CameraControl.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Transform:INTERNAL_get_position (UnityEngine.Vector3&)
+  at UnityEngine.Transform.get_position () [0x00000] in <filename unknown>:0 
+  at CameraControl.FindAveragePosition () [0x00000] in <filename unknown>:0 
+  at CameraControl.Move () [0x00000] in <filename unknown>:0 
+  at CameraControl.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Transform:INTERNAL_get_position (UnityEngine.Vector3&)
+  at UnityEngine.Transform.get_position () [0x00000] in <filename unknown>:0 
+  at CameraControl.FindAveragePosition () [0x00000] in <filename unknown>:0 
+  at CameraControl.Move () [0x00000] in <filename unknown>:0 
+  at CameraControl.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Transform:INTERNAL_get_position (UnityEngine.Vector3&)
+  at UnityEngine.Transform.get_position () [0x00000] in <filename unknown>:0 
+  at CameraControl.FindAveragePosition () [0x00000] in <filename unknown>:0 
+  at CameraControl.Move () [0x00000] in <filename unknown>:0 
+  at CameraControl.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Transform:INTERNAL_get_position (UnityEngine.Vector3&)
+  at UnityEngine.Transform.get_position () [0x00000] in <filename unknown>:0 
+  at CameraControl.FindAveragePosition () [0x00000] in <filename unknown>:0 
+  at CameraControl.Move () [0x00000] in <filename unknown>:0 
+  at CameraControl.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Transform:INTERNAL_get_position (UnityEngine.Vector3&)
+  at UnityEngine.Transform.get_position () [0x00000] in <filename unknown>:0 
+  at CameraControl.FindAveragePosition () [0x00000] in <filename unknown>:0 
+  at CameraControl.Move () [0x00000] in <filename unknown>:0 
+  at CameraControl.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Transform:INTERNAL_get_position (UnityEngine.Vector3&)
+  at UnityEngine.Transform.get_position () [0x00000] in <filename unknown>:0 
+  at CameraControl.FindAveragePosition () [0x00000] in <filename unknown>:0 
+  at CameraControl.Move () [0x00000] in <filename unknown>:0 
+  at CameraControl.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Transform:INTERNAL_get_position (UnityEngine.Vector3&)
+  at UnityEngine.Transform.get_position () [0x00000] in <filename unknown>:0 
+  at CameraControl.FindAveragePosition () [0x00000] in <filename unknown>:0 
+  at CameraControl.Move () [0x00000] in <filename unknown>:0 
+  at CameraControl.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Transform:INTERNAL_get_position (UnityEngine.Vector3&)
+  at UnityEngine.Transform.get_position () [0x00000] in <filename unknown>:0 
+  at CameraControl.FindAveragePosition () [0x00000] in <filename unknown>:0 
+  at CameraControl.Move () [0x00000] in <filename unknown>:0 
+  at CameraControl.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Transform:INTERNAL_get_position (UnityEngine.Vector3&)
+  at UnityEngine.Transform.get_position () [0x00000] in <filename unknown>:0 
+  at CameraControl.FindAveragePosition () [0x00000] in <filename unknown>:0 
+  at CameraControl.Move () [0x00000] in <filename unknown>:0 
+  at CameraControl.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Transform:INTERNAL_get_position (UnityEngine.Vector3&)
+  at UnityEngine.Transform.get_position () [0x00000] in <filename unknown>:0 
+  at CameraControl.FindAveragePosition () [0x00000] in <filename unknown>:0 
+  at CameraControl.Move () [0x00000] in <filename unknown>:0 
+  at CameraControl.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Transform:INTERNAL_get_position (UnityEngine.Vector3&)
+  at UnityEngine.Transform.get_position () [0x00000] in <filename unknown>:0 
+  at CameraControl.FindAveragePosition () [0x00000] in <filename unknown>:0 
+  at CameraControl.Move () [0x00000] in <filename unknown>:0 
+  at CameraControl.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Transform:INTERNAL_get_position (UnityEngine.Vector3&)
+  at UnityEngine.Transform.get_position () [0x00000] in <filename unknown>:0 
+  at CameraControl.FindAveragePosition () [0x00000] in <filename unknown>:0 
+  at CameraControl.Move () [0x00000] in <filename unknown>:0 
+  at CameraControl.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Transform:INTERNAL_get_position (UnityEngine.Vector3&)
+  at UnityEngine.Transform.get_position () [0x00000] in <filename unknown>:0 
+  at CameraControl.FindAveragePosition () [0x00000] in <filename unknown>:0 
+  at CameraControl.Move () [0x00000] in <filename unknown>:0 
+  at CameraControl.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Transform:INTERNAL_get_position (UnityEngine.Vector3&)
+  at UnityEngine.Transform.get_position () [0x00000] in <filename unknown>:0 
+  at CameraControl.FindAveragePosition () [0x00000] in <filename unknown>:0 
+  at CameraControl.Move () [0x00000] in <filename unknown>:0 
+  at CameraControl.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Transform:INTERNAL_get_position (UnityEngine.Vector3&)
+  at UnityEngine.Transform.get_position () [0x00000] in <filename unknown>:0 
+  at CameraControl.FindAveragePosition () [0x00000] in <filename unknown>:0 
+  at CameraControl.Move () [0x00000] in <filename unknown>:0 
+  at CameraControl.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Transform:INTERNAL_get_position (UnityEngine.Vector3&)
+  at UnityEngine.Transform.get_position () [0x00000] in <filename unknown>:0 
+  at CameraControl.FindAveragePosition () [0x00000] in <filename unknown>:0 
+  at CameraControl.Move () [0x00000] in <filename unknown>:0 
+  at CameraControl.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Transform:INTERNAL_get_position (UnityEngine.Vector3&)
+  at UnityEngine.Transform.get_position () [0x00000] in <filename unknown>:0 
+  at CameraControl.FindAveragePosition () [0x00000] in <filename unknown>:0 
+  at CameraControl.Move () [0x00000] in <filename unknown>:0 
+  at CameraControl.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Transform:INTERNAL_get_position (UnityEngine.Vector3&)
+  at UnityEngine.Transform.get_position () [0x00000] in <filename unknown>:0 
+  at CameraControl.FindAveragePosition () [0x00000] in <filename unknown>:0 
+  at CameraControl.Move () [0x00000] in <filename unknown>:0 
+  at CameraControl.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Transform:INTERNAL_get_position (UnityEngine.Vector3&)
+  at UnityEngine.Transform.get_position () [0x00000] in <filename unknown>:0 
+  at CameraControl.FindAveragePosition () [0x00000] in <filename unknown>:0 
+  at CameraControl.Move () [0x00000] in <filename unknown>:0 
+  at CameraControl.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Transform:INTERNAL_get_position (UnityEngine.Vector3&)
+  at UnityEngine.Transform.get_position () [0x00000] in <filename unknown>:0 
+  at CameraControl.FindAveragePosition () [0x00000] in <filename unknown>:0 
+  at CameraControl.Move () [0x00000] in <filename unknown>:0 
+  at CameraControl.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Transform:INTERNAL_get_position (UnityEngine.Vector3&)
+  at UnityEngine.Transform.get_position () [0x00000] in <filename unknown>:0 
+  at CameraControl.FindAveragePosition () [0x00000] in <filename unknown>:0 
+  at CameraControl.Move () [0x00000] in <filename unknown>:0 
+  at CameraControl.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Transform:INTERNAL_get_position (UnityEngine.Vector3&)
+  at UnityEngine.Transform.get_position () [0x00000] in <filename unknown>:0 
+  at CameraControl.FindAveragePosition () [0x00000] in <filename unknown>:0 
+  at CameraControl.Move () [0x00000] in <filename unknown>:0 
+  at CameraControl.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Transform:INTERNAL_get_position (UnityEngine.Vector3&)
+  at UnityEngine.Transform.get_position () [0x00000] in <filename unknown>:0 
+  at CameraControl.FindAveragePosition () [0x00000] in <filename unknown>:0 
+  at CameraControl.Move () [0x00000] in <filename unknown>:0 
+  at CameraControl.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Transform:INTERNAL_get_position (UnityEngine.Vector3&)
+  at UnityEngine.Transform.get_position () [0x00000] in <filename unknown>:0 
+  at CameraControl.FindAveragePosition () [0x00000] in <filename unknown>:0 
+  at CameraControl.Move () [0x00000] in <filename unknown>:0 
+  at CameraControl.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Transform:INTERNAL_get_position (UnityEngine.Vector3&)
+  at UnityEngine.Transform.get_position () [0x00000] in <filename unknown>:0 
+  at CameraControl.FindAveragePosition () [0x00000] in <filename unknown>:0 
+  at CameraControl.Move () [0x00000] in <filename unknown>:0 
+  at CameraControl.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Transform:INTERNAL_get_position (UnityEngine.Vector3&)
+  at UnityEngine.Transform.get_position () [0x00000] in <filename unknown>:0 
+  at CameraControl.FindAveragePosition () [0x00000] in <filename unknown>:0 
+  at CameraControl.Move () [0x00000] in <filename unknown>:0 
+  at CameraControl.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Transform:INTERNAL_get_position (UnityEngine.Vector3&)
+  at UnityEngine.Transform.get_position () [0x00000] in <filename unknown>:0 
+  at CameraControl.FindAveragePosition () [0x00000] in <filename unknown>:0 
+  at CameraControl.Move () [0x00000] in <filename unknown>:0 
+  at CameraControl.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Transform:INTERNAL_get_position (UnityEngine.Vector3&)
+  at UnityEngine.Transform.get_position () [0x00000] in <filename unknown>:0 
+  at CameraControl.FindAveragePosition () [0x00000] in <filename unknown>:0 
+  at CameraControl.Move () [0x00000] in <filename unknown>:0 
+  at CameraControl.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Transform:INTERNAL_get_position (UnityEngine.Vector3&)
+  at UnityEngine.Transform.get_position () [0x00000] in <filename unknown>:0 
+  at CameraControl.FindAveragePosition () [0x00000] in <filename unknown>:0 
+  at CameraControl.Move () [0x00000] in <filename unknown>:0 
+  at CameraControl.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Transform:INTERNAL_get_position (UnityEngine.Vector3&)
+  at UnityEngine.Transform.get_position () [0x00000] in <filename unknown>:0 
+  at CameraControl.FindAveragePosition () [0x00000] in <filename unknown>:0 
+  at CameraControl.Move () [0x00000] in <filename unknown>:0 
+  at CameraControl.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Transform:INTERNAL_get_position (UnityEngine.Vector3&)
+  at UnityEngine.Transform.get_position () [0x00000] in <filename unknown>:0 
+  at CameraControl.FindAveragePosition () [0x00000] in <filename unknown>:0 
+  at CameraControl.Move () [0x00000] in <filename unknown>:0 
+  at CameraControl.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Transform:INTERNAL_get_position (UnityEngine.Vector3&)
+  at UnityEngine.Transform.get_position () [0x00000] in <filename unknown>:0 
+  at CameraControl.FindAveragePosition () [0x00000] in <filename unknown>:0 
+  at CameraControl.Move () [0x00000] in <filename unknown>:0 
+  at CameraControl.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Transform:INTERNAL_get_position (UnityEngine.Vector3&)
+  at UnityEngine.Transform.get_position () [0x00000] in <filename unknown>:0 
+  at CameraControl.FindAveragePosition () [0x00000] in <filename unknown>:0 
+  at CameraControl.Move () [0x00000] in <filename unknown>:0 
+  at CameraControl.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Transform:INTERNAL_get_position (UnityEngine.Vector3&)
+  at UnityEngine.Transform.get_position () [0x00000] in <filename unknown>:0 
+  at CameraControl.FindAveragePosition () [0x00000] in <filename unknown>:0 
+  at CameraControl.Move () [0x00000] in <filename unknown>:0 
+  at CameraControl.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Transform:INTERNAL_get_position (UnityEngine.Vector3&)
+  at UnityEngine.Transform.get_position () [0x00000] in <filename unknown>:0 
+  at CameraControl.FindAveragePosition () [0x00000] in <filename unknown>:0 
+  at CameraControl.Move () [0x00000] in <filename unknown>:0 
+  at CameraControl.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Transform:INTERNAL_get_position (UnityEngine.Vector3&)
+  at UnityEngine.Transform.get_position () [0x00000] in <filename unknown>:0 
+  at CameraControl.FindAveragePosition () [0x00000] in <filename unknown>:0 
+  at CameraControl.Move () [0x00000] in <filename unknown>:0 
+  at CameraControl.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Transform:INTERNAL_get_position (UnityEngine.Vector3&)
+  at UnityEngine.Transform.get_position () [0x00000] in <filename unknown>:0 
+  at CameraControl.FindAveragePosition () [0x00000] in <filename unknown>:0 
+  at CameraControl.Move () [0x00000] in <filename unknown>:0 
+  at CameraControl.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Transform:INTERNAL_get_position (UnityEngine.Vector3&)
+  at UnityEngine.Transform.get_position () [0x00000] in <filename unknown>:0 
+  at CameraControl.FindAveragePosition () [0x00000] in <filename unknown>:0 
+  at CameraControl.Move () [0x00000] in <filename unknown>:0 
+  at CameraControl.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Transform:INTERNAL_get_position (UnityEngine.Vector3&)
+  at UnityEngine.Transform.get_position () [0x00000] in <filename unknown>:0 
+  at CameraControl.FindAveragePosition () [0x00000] in <filename unknown>:0 
+  at CameraControl.Move () [0x00000] in <filename unknown>:0 
+  at CameraControl.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Transform:INTERNAL_get_position (UnityEngine.Vector3&)
+  at UnityEngine.Transform.get_position () [0x00000] in <filename unknown>:0 
+  at CameraControl.FindAveragePosition () [0x00000] in <filename unknown>:0 
+  at CameraControl.Move () [0x00000] in <filename unknown>:0 
+  at CameraControl.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Transform:INTERNAL_get_position (UnityEngine.Vector3&)
+  at UnityEngine.Transform.get_position () [0x00000] in <filename unknown>:0 
+  at CameraControl.FindAveragePosition () [0x00000] in <filename unknown>:0 
+  at CameraControl.Move () [0x00000] in <filename unknown>:0 
+  at CameraControl.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Transform:INTERNAL_get_position (UnityEngine.Vector3&)
+  at UnityEngine.Transform.get_position () [0x00000] in <filename unknown>:0 
+  at CameraControl.FindAveragePosition () [0x00000] in <filename unknown>:0 
+  at CameraControl.Move () [0x00000] in <filename unknown>:0 
+  at CameraControl.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Transform:INTERNAL_get_position (UnityEngine.Vector3&)
+  at UnityEngine.Transform.get_position () [0x00000] in <filename unknown>:0 
+  at CameraControl.FindAveragePosition () [0x00000] in <filename unknown>:0 
+  at CameraControl.Move () [0x00000] in <filename unknown>:0 
+  at CameraControl.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Transform:INTERNAL_get_position (UnityEngine.Vector3&)
+  at UnityEngine.Transform.get_position () [0x00000] in <filename unknown>:0 
+  at CameraControl.FindAveragePosition () [0x00000] in <filename unknown>:0 
+  at CameraControl.Move () [0x00000] in <filename unknown>:0 
+  at CameraControl.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Transform:INTERNAL_get_position (UnityEngine.Vector3&)
+  at UnityEngine.Transform.get_position () [0x00000] in <filename unknown>:0 
+  at CameraControl.FindAveragePosition () [0x00000] in <filename unknown>:0 
+  at CameraControl.Move () [0x00000] in <filename unknown>:0 
+  at CameraControl.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Transform:INTERNAL_get_position (UnityEngine.Vector3&)
+  at UnityEngine.Transform.get_position () [0x00000] in <filename unknown>:0 
+  at CameraControl.FindAveragePosition () [0x00000] in <filename unknown>:0 
+  at CameraControl.Move () [0x00000] in <filename unknown>:0 
+  at CameraControl.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Transform:INTERNAL_get_position (UnityEngine.Vector3&)
+  at UnityEngine.Transform.get_position () [0x00000] in <filename unknown>:0 
+  at CameraControl.FindAveragePosition () [0x00000] in <filename unknown>:0 
+  at CameraControl.Move () [0x00000] in <filename unknown>:0 
+  at CameraControl.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Transform:INTERNAL_get_position (UnityEngine.Vector3&)
+  at UnityEngine.Transform.get_position () [0x00000] in <filename unknown>:0 
+  at CameraControl.FindAveragePosition () [0x00000] in <filename unknown>:0 
+  at CameraControl.Move () [0x00000] in <filename unknown>:0 
+  at CameraControl.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Transform:INTERNAL_get_position (UnityEngine.Vector3&)
+  at UnityEngine.Transform.get_position () [0x00000] in <filename unknown>:0 
+  at CameraControl.FindAveragePosition () [0x00000] in <filename unknown>:0 
+  at CameraControl.Move () [0x00000] in <filename unknown>:0 
+  at CameraControl.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Transform:INTERNAL_get_position (UnityEngine.Vector3&)
+  at UnityEngine.Transform.get_position () [0x00000] in <filename unknown>:0 
+  at CameraControl.FindAveragePosition () [0x00000] in <filename unknown>:0 
+  at CameraControl.Move () [0x00000] in <filename unknown>:0 
+  at CameraControl.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Transform:INTERNAL_get_position (UnityEngine.Vector3&)
+  at UnityEngine.Transform.get_position () [0x00000] in <filename unknown>:0 
+  at CameraControl.FindAveragePosition () [0x00000] in <filename unknown>:0 
+  at CameraControl.Move () [0x00000] in <filename unknown>:0 
+  at CameraControl.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Transform:INTERNAL_get_position (UnityEngine.Vector3&)
+  at UnityEngine.Transform.get_position () [0x00000] in <filename unknown>:0 
+  at CameraControl.FindAveragePosition () [0x00000] in <filename unknown>:0 
+  at CameraControl.Move () [0x00000] in <filename unknown>:0 
+  at CameraControl.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Transform:INTERNAL_get_position (UnityEngine.Vector3&)
+  at UnityEngine.Transform.get_position () [0x00000] in <filename unknown>:0 
+  at CameraControl.FindAveragePosition () [0x00000] in <filename unknown>:0 
+  at CameraControl.Move () [0x00000] in <filename unknown>:0 
+  at CameraControl.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Transform:INTERNAL_get_position (UnityEngine.Vector3&)
+  at UnityEngine.Transform.get_position () [0x00000] in <filename unknown>:0 
+  at CameraControl.FindAveragePosition () [0x00000] in <filename unknown>:0 
+  at CameraControl.Move () [0x00000] in <filename unknown>:0 
+  at CameraControl.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Transform:INTERNAL_get_position (UnityEngine.Vector3&)
+  at UnityEngine.Transform.get_position () [0x00000] in <filename unknown>:0 
+  at CameraControl.FindAveragePosition () [0x00000] in <filename unknown>:0 
+  at CameraControl.Move () [0x00000] in <filename unknown>:0 
+  at CameraControl.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Transform:INTERNAL_get_position (UnityEngine.Vector3&)
+  at UnityEngine.Transform.get_position () [0x00000] in <filename unknown>:0 
+  at CameraControl.FindAveragePosition () [0x00000] in <filename unknown>:0 
+  at CameraControl.Move () [0x00000] in <filename unknown>:0 
+  at CameraControl.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Transform:INTERNAL_get_position (UnityEngine.Vector3&)
+  at UnityEngine.Transform.get_position () [0x00000] in <filename unknown>:0 
+  at CameraControl.FindAveragePosition () [0x00000] in <filename unknown>:0 
+  at CameraControl.Move () [0x00000] in <filename unknown>:0 
+  at CameraControl.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Transform:INTERNAL_get_position (UnityEngine.Vector3&)
+  at UnityEngine.Transform.get_position () [0x00000] in <filename unknown>:0 
+  at CameraControl.FindAveragePosition () [0x00000] in <filename unknown>:0 
+  at CameraControl.Move () [0x00000] in <filename unknown>:0 
+  at CameraControl.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Transform:INTERNAL_get_position (UnityEngine.Vector3&)
+  at UnityEngine.Transform.get_position () [0x00000] in <filename unknown>:0 
+  at CameraControl.FindAveragePosition () [0x00000] in <filename unknown>:0 
+  at CameraControl.Move () [0x00000] in <filename unknown>:0 
+  at CameraControl.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Transform:INTERNAL_get_position (UnityEngine.Vector3&)
+  at UnityEngine.Transform.get_position () [0x00000] in <filename unknown>:0 
+  at CameraControl.FindAveragePosition () [0x00000] in <filename unknown>:0 
+  at CameraControl.Move () [0x00000] in <filename unknown>:0 
+  at CameraControl.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Transform:INTERNAL_get_position (UnityEngine.Vector3&)
+  at UnityEngine.Transform.get_position () [0x00000] in <filename unknown>:0 
+  at CameraControl.FindAveragePosition () [0x00000] in <filename unknown>:0 
+  at CameraControl.Move () [0x00000] in <filename unknown>:0 
+  at CameraControl.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Transform:INTERNAL_get_position (UnityEngine.Vector3&)
+  at UnityEngine.Transform.get_position () [0x00000] in <filename unknown>:0 
+  at CameraControl.FindAveragePosition () [0x00000] in <filename unknown>:0 
+  at CameraControl.Move () [0x00000] in <filename unknown>:0 
+  at CameraControl.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Transform:INTERNAL_get_position (UnityEngine.Vector3&)
+  at UnityEngine.Transform.get_position () [0x00000] in <filename unknown>:0 
+  at CameraControl.FindAveragePosition () [0x00000] in <filename unknown>:0 
+  at CameraControl.Move () [0x00000] in <filename unknown>:0 
+  at CameraControl.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Transform:INTERNAL_get_position (UnityEngine.Vector3&)
+  at UnityEngine.Transform.get_position () [0x00000] in <filename unknown>:0 
+  at CameraControl.FindAveragePosition () [0x00000] in <filename unknown>:0 
+  at CameraControl.Move () [0x00000] in <filename unknown>:0 
+  at CameraControl.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Transform:INTERNAL_get_position (UnityEngine.Vector3&)
+  at UnityEngine.Transform.get_position () [0x00000] in <filename unknown>:0 
+  at CameraControl.FindAveragePosition () [0x00000] in <filename unknown>:0 
+  at CameraControl.Move () [0x00000] in <filename unknown>:0 
+  at CameraControl.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Transform:INTERNAL_get_position (UnityEngine.Vector3&)
+  at UnityEngine.Transform.get_position () [0x00000] in <filename unknown>:0 
+  at CameraControl.FindAveragePosition () [0x00000] in <filename unknown>:0 
+  at CameraControl.Move () [0x00000] in <filename unknown>:0 
+  at CameraControl.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Transform:INTERNAL_get_position (UnityEngine.Vector3&)
+  at UnityEngine.Transform.get_position () [0x00000] in <filename unknown>:0 
+  at CameraControl.FindAveragePosition () [0x00000] in <filename unknown>:0 
+  at CameraControl.Move () [0x00000] in <filename unknown>:0 
+  at CameraControl.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Transform:INTERNAL_get_position (UnityEngine.Vector3&)
+  at UnityEngine.Transform.get_position () [0x00000] in <filename unknown>:0 
+  at CameraControl.FindAveragePosition () [0x00000] in <filename unknown>:0 
+  at CameraControl.Move () [0x00000] in <filename unknown>:0 
+  at CameraControl.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Transform:INTERNAL_get_position (UnityEngine.Vector3&)
+  at UnityEngine.Transform.get_position () [0x00000] in <filename unknown>:0 
+  at CameraControl.FindAveragePosition () [0x00000] in <filename unknown>:0 
+  at CameraControl.Move () [0x00000] in <filename unknown>:0 
+  at CameraControl.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Transform:INTERNAL_get_position (UnityEngine.Vector3&)
+  at UnityEngine.Transform.get_position () [0x00000] in <filename unknown>:0 
+  at CameraControl.FindAveragePosition () [0x00000] in <filename unknown>:0 
+  at CameraControl.Move () [0x00000] in <filename unknown>:0 
+  at CameraControl.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Transform:INTERNAL_get_position (UnityEngine.Vector3&)
+  at UnityEngine.Transform.get_position () [0x00000] in <filename unknown>:0 
+  at CameraControl.FindAveragePosition () [0x00000] in <filename unknown>:0 
+  at CameraControl.Move () [0x00000] in <filename unknown>:0 
+  at CameraControl.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Transform:INTERNAL_get_position (UnityEngine.Vector3&)
+  at UnityEngine.Transform.get_position () [0x00000] in <filename unknown>:0 
+  at CameraControl.FindAveragePosition () [0x00000] in <filename unknown>:0 
+  at CameraControl.Move () [0x00000] in <filename unknown>:0 
+  at CameraControl.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Transform:INTERNAL_get_position (UnityEngine.Vector3&)
+  at UnityEngine.Transform.get_position () [0x00000] in <filename unknown>:0 
+  at CameraControl.FindAveragePosition () [0x00000] in <filename unknown>:0 
+  at CameraControl.Move () [0x00000] in <filename unknown>:0 
+  at CameraControl.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Transform:INTERNAL_get_position (UnityEngine.Vector3&)
+  at UnityEngine.Transform.get_position () [0x00000] in <filename unknown>:0 
+  at CameraControl.FindAveragePosition () [0x00000] in <filename unknown>:0 
+  at CameraControl.Move () [0x00000] in <filename unknown>:0 
+  at CameraControl.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Transform:INTERNAL_get_position (UnityEngine.Vector3&)
+  at UnityEngine.Transform.get_position () [0x00000] in <filename unknown>:0 
+  at CameraControl.FindAveragePosition () [0x00000] in <filename unknown>:0 
+  at CameraControl.Move () [0x00000] in <filename unknown>:0 
+  at CameraControl.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Transform:INTERNAL_get_position (UnityEngine.Vector3&)
+  at UnityEngine.Transform.get_position () [0x00000] in <filename unknown>:0 
+  at CameraControl.FindAveragePosition () [0x00000] in <filename unknown>:0 
+  at CameraControl.Move () [0x00000] in <filename unknown>:0 
+  at CameraControl.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Transform:INTERNAL_get_position (UnityEngine.Vector3&)
+  at UnityEngine.Transform.get_position () [0x00000] in <filename unknown>:0 
+  at CameraControl.FindAveragePosition () [0x00000] in <filename unknown>:0 
+  at CameraControl.Move () [0x00000] in <filename unknown>:0 
+  at CameraControl.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Transform:INTERNAL_get_position (UnityEngine.Vector3&)
+  at UnityEngine.Transform.get_position () [0x00000] in <filename unknown>:0 
+  at CameraControl.FindAveragePosition () [0x00000] in <filename unknown>:0 
+  at CameraControl.Move () [0x00000] in <filename unknown>:0 
+  at CameraControl.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Transform:INTERNAL_get_position (UnityEngine.Vector3&)
+  at UnityEngine.Transform.get_position () [0x00000] in <filename unknown>:0 
+  at CameraControl.FindAveragePosition () [0x00000] in <filename unknown>:0 
+  at CameraControl.Move () [0x00000] in <filename unknown>:0 
+  at CameraControl.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Transform:INTERNAL_get_position (UnityEngine.Vector3&)
+  at UnityEngine.Transform.get_position () [0x00000] in <filename unknown>:0 
+  at CameraControl.FindAveragePosition () [0x00000] in <filename unknown>:0 
+  at CameraControl.Move () [0x00000] in <filename unknown>:0 
+  at CameraControl.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Transform:INTERNAL_get_position (UnityEngine.Vector3&)
+  at UnityEngine.Transform.get_position () [0x00000] in <filename unknown>:0 
+  at CameraControl.FindAveragePosition () [0x00000] in <filename unknown>:0 
+  at CameraControl.Move () [0x00000] in <filename unknown>:0 
+  at CameraControl.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Transform:INTERNAL_get_position (UnityEngine.Vector3&)
+  at UnityEngine.Transform.get_position () [0x00000] in <filename unknown>:0 
+  at CameraControl.FindAveragePosition () [0x00000] in <filename unknown>:0 
+  at CameraControl.Move () [0x00000] in <filename unknown>:0 
+  at CameraControl.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Transform:INTERNAL_get_position (UnityEngine.Vector3&)
+  at UnityEngine.Transform.get_position () [0x00000] in <filename unknown>:0 
+  at CameraControl.FindAveragePosition () [0x00000] in <filename unknown>:0 
+  at CameraControl.Move () [0x00000] in <filename unknown>:0 
+  at CameraControl.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Transform:INTERNAL_get_position (UnityEngine.Vector3&)
+  at UnityEngine.Transform.get_position () [0x00000] in <filename unknown>:0 
+  at CameraControl.FindAveragePosition () [0x00000] in <filename unknown>:0 
+  at CameraControl.Move () [0x00000] in <filename unknown>:0 
+  at CameraControl.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Transform:INTERNAL_get_position (UnityEngine.Vector3&)
+  at UnityEngine.Transform.get_position () [0x00000] in <filename unknown>:0 
+  at CameraControl.FindAveragePosition () [0x00000] in <filename unknown>:0 
+  at CameraControl.Move () [0x00000] in <filename unknown>:0 
+  at CameraControl.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Transform:INTERNAL_get_position (UnityEngine.Vector3&)
+  at UnityEngine.Transform.get_position () [0x00000] in <filename unknown>:0 
+  at CameraControl.FindAveragePosition () [0x00000] in <filename unknown>:0 
+  at CameraControl.Move () [0x00000] in <filename unknown>:0 
+  at CameraControl.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Transform:INTERNAL_get_position (UnityEngine.Vector3&)
+  at UnityEngine.Transform.get_position () [0x00000] in <filename unknown>:0 
+  at CameraControl.FindAveragePosition () [0x00000] in <filename unknown>:0 
+  at CameraControl.Move () [0x00000] in <filename unknown>:0 
+  at CameraControl.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Transform:INTERNAL_get_position (UnityEngine.Vector3&)
+  at UnityEngine.Transform.get_position () [0x00000] in <filename unknown>:0 
+  at CameraControl.FindAveragePosition () [0x00000] in <filename unknown>:0 
+  at CameraControl.Move () [0x00000] in <filename unknown>:0 
+  at CameraControl.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Transform:INTERNAL_get_position (UnityEngine.Vector3&)
+  at UnityEngine.Transform.get_position () [0x00000] in <filename unknown>:0 
+  at CameraControl.FindAveragePosition () [0x00000] in <filename unknown>:0 
+  at CameraControl.Move () [0x00000] in <filename unknown>:0 
+  at CameraControl.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Transform:INTERNAL_get_position (UnityEngine.Vector3&)
+  at UnityEngine.Transform.get_position () [0x00000] in <filename unknown>:0 
+  at CameraControl.FindAveragePosition () [0x00000] in <filename unknown>:0 
+  at CameraControl.Move () [0x00000] in <filename unknown>:0 
+  at CameraControl.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Transform:INTERNAL_get_position (UnityEngine.Vector3&)
+  at UnityEngine.Transform.get_position () [0x00000] in <filename unknown>:0 
+  at CameraControl.FindAveragePosition () [0x00000] in <filename unknown>:0 
+  at CameraControl.Move () [0x00000] in <filename unknown>:0 
+  at CameraControl.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Transform:INTERNAL_get_position (UnityEngine.Vector3&)
+  at UnityEngine.Transform.get_position () [0x00000] in <filename unknown>:0 
+  at CameraControl.FindAveragePosition () [0x00000] in <filename unknown>:0 
+  at CameraControl.Move () [0x00000] in <filename unknown>:0 
+  at CameraControl.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Transform:INTERNAL_get_position (UnityEngine.Vector3&)
+  at UnityEngine.Transform.get_position () [0x00000] in <filename unknown>:0 
+  at CameraControl.FindAveragePosition () [0x00000] in <filename unknown>:0 
+  at CameraControl.Move () [0x00000] in <filename unknown>:0 
+  at CameraControl.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Transform:INTERNAL_get_position (UnityEngine.Vector3&)
+  at UnityEngine.Transform.get_position () [0x00000] in <filename unknown>:0 
+  at CameraControl.FindAveragePosition () [0x00000] in <filename unknown>:0 
+  at CameraControl.Move () [0x00000] in <filename unknown>:0 
+  at CameraControl.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Transform:INTERNAL_get_position (UnityEngine.Vector3&)
+  at UnityEngine.Transform.get_position () [0x00000] in <filename unknown>:0 
+  at CameraControl.FindAveragePosition () [0x00000] in <filename unknown>:0 
+  at CameraControl.Move () [0x00000] in <filename unknown>:0 
+  at CameraControl.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Transform:INTERNAL_get_position (UnityEngine.Vector3&)
+  at UnityEngine.Transform.get_position () [0x00000] in <filename unknown>:0 
+  at CameraControl.FindAveragePosition () [0x00000] in <filename unknown>:0 
+  at CameraControl.Move () [0x00000] in <filename unknown>:0 
+  at CameraControl.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Transform:INTERNAL_get_position (UnityEngine.Vector3&)
+  at UnityEngine.Transform.get_position () [0x00000] in <filename unknown>:0 
+  at CameraControl.FindAveragePosition () [0x00000] in <filename unknown>:0 
+  at CameraControl.Move () [0x00000] in <filename unknown>:0 
+  at CameraControl.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Transform:INTERNAL_get_position (UnityEngine.Vector3&)
+  at UnityEngine.Transform.get_position () [0x00000] in <filename unknown>:0 
+  at CameraControl.FindAveragePosition () [0x00000] in <filename unknown>:0 
+  at CameraControl.Move () [0x00000] in <filename unknown>:0 
+  at CameraControl.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Transform:INTERNAL_get_position (UnityEngine.Vector3&)
+  at UnityEngine.Transform.get_position () [0x00000] in <filename unknown>:0 
+  at CameraControl.FindAveragePosition () [0x00000] in <filename unknown>:0 
+  at CameraControl.Move () [0x00000] in <filename unknown>:0 
+  at CameraControl.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Transform:INTERNAL_get_position (UnityEngine.Vector3&)
+  at UnityEngine.Transform.get_position () [0x00000] in <filename unknown>:0 
+  at CameraControl.FindAveragePosition () [0x00000] in <filename unknown>:0 
+  at CameraControl.Move () [0x00000] in <filename unknown>:0 
+  at CameraControl.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Transform:INTERNAL_get_position (UnityEngine.Vector3&)
+  at UnityEngine.Transform.get_position () [0x00000] in <filename unknown>:0 
+  at CameraControl.FindAveragePosition () [0x00000] in <filename unknown>:0 
+  at CameraControl.Move () [0x00000] in <filename unknown>:0 
+  at CameraControl.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Transform:INTERNAL_get_position (UnityEngine.Vector3&)
+  at UnityEngine.Transform.get_position () [0x00000] in <filename unknown>:0 
+  at CameraControl.FindAveragePosition () [0x00000] in <filename unknown>:0 
+  at CameraControl.Move () [0x00000] in <filename unknown>:0 
+  at CameraControl.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Transform:INTERNAL_get_position (UnityEngine.Vector3&)
+  at UnityEngine.Transform.get_position () [0x00000] in <filename unknown>:0 
+  at CameraControl.FindAveragePosition () [0x00000] in <filename unknown>:0 
+  at CameraControl.Move () [0x00000] in <filename unknown>:0 
+  at CameraControl.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Transform:INTERNAL_get_position (UnityEngine.Vector3&)
+  at UnityEngine.Transform.get_position () [0x00000] in <filename unknown>:0 
+  at CameraControl.FindAveragePosition () [0x00000] in <filename unknown>:0 
+  at CameraControl.Move () [0x00000] in <filename unknown>:0 
+  at CameraControl.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Transform:INTERNAL_get_position (UnityEngine.Vector3&)
+  at UnityEngine.Transform.get_position () [0x00000] in <filename unknown>:0 
+  at CameraControl.FindAveragePosition () [0x00000] in <filename unknown>:0 
+  at CameraControl.Move () [0x00000] in <filename unknown>:0 
+  at CameraControl.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Transform:INTERNAL_get_position (UnityEngine.Vector3&)
+  at UnityEngine.Transform.get_position () [0x00000] in <filename unknown>:0 
+  at CameraControl.FindAveragePosition () [0x00000] in <filename unknown>:0 
+  at CameraControl.Move () [0x00000] in <filename unknown>:0 
+  at CameraControl.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Transform:INTERNAL_get_position (UnityEngine.Vector3&)
+  at UnityEngine.Transform.get_position () [0x00000] in <filename unknown>:0 
+  at CameraControl.FindAveragePosition () [0x00000] in <filename unknown>:0 
+  at CameraControl.Move () [0x00000] in <filename unknown>:0 
+  at CameraControl.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Transform:INTERNAL_get_position (UnityEngine.Vector3&)
+  at UnityEngine.Transform.get_position () [0x00000] in <filename unknown>:0 
+  at CameraControl.FindAveragePosition () [0x00000] in <filename unknown>:0 
+  at CameraControl.Move () [0x00000] in <filename unknown>:0 
+  at CameraControl.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Transform:INTERNAL_get_position (UnityEngine.Vector3&)
+  at UnityEngine.Transform.get_position () [0x00000] in <filename unknown>:0 
+  at CameraControl.FindAveragePosition () [0x00000] in <filename unknown>:0 
+  at CameraControl.Move () [0x00000] in <filename unknown>:0 
+  at CameraControl.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Transform:INTERNAL_get_position (UnityEngine.Vector3&)
+  at UnityEngine.Transform.get_position () [0x00000] in <filename unknown>:0 
+  at CameraControl.FindAveragePosition () [0x00000] in <filename unknown>:0 
+  at CameraControl.Move () [0x00000] in <filename unknown>:0 
+  at CameraControl.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Transform:INTERNAL_get_position (UnityEngine.Vector3&)
+  at UnityEngine.Transform.get_position () [0x00000] in <filename unknown>:0 
+  at CameraControl.FindAveragePosition () [0x00000] in <filename unknown>:0 
+  at CameraControl.Move () [0x00000] in <filename unknown>:0 
+  at CameraControl.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Transform:INTERNAL_get_position (UnityEngine.Vector3&)
+  at UnityEngine.Transform.get_position () [0x00000] in <filename unknown>:0 
+  at CameraControl.FindAveragePosition () [0x00000] in <filename unknown>:0 
+  at CameraControl.Move () [0x00000] in <filename unknown>:0 
+  at CameraControl.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Transform:INTERNAL_get_position (UnityEngine.Vector3&)
+  at UnityEngine.Transform.get_position () [0x00000] in <filename unknown>:0 
+  at CameraControl.FindAveragePosition () [0x00000] in <filename unknown>:0 
+  at CameraControl.Move () [0x00000] in <filename unknown>:0 
+  at CameraControl.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Transform:INTERNAL_get_position (UnityEngine.Vector3&)
+  at UnityEngine.Transform.get_position () [0x00000] in <filename unknown>:0 
+  at CameraControl.FindAveragePosition () [0x00000] in <filename unknown>:0 
+  at CameraControl.Move () [0x00000] in <filename unknown>:0 
+  at CameraControl.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Transform:INTERNAL_get_position (UnityEngine.Vector3&)
+  at UnityEngine.Transform.get_position () [0x00000] in <filename unknown>:0 
+  at CameraControl.FindAveragePosition () [0x00000] in <filename unknown>:0 
+  at CameraControl.Move () [0x00000] in <filename unknown>:0 
+  at CameraControl.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Transform:INTERNAL_get_position (UnityEngine.Vector3&)
+  at UnityEngine.Transform.get_position () [0x00000] in <filename unknown>:0 
+  at CameraControl.FindAveragePosition () [0x00000] in <filename unknown>:0 
+  at CameraControl.Move () [0x00000] in <filename unknown>:0 
+  at CameraControl.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Transform:INTERNAL_get_position (UnityEngine.Vector3&)
+  at UnityEngine.Transform.get_position () [0x00000] in <filename unknown>:0 
+  at CameraControl.FindAveragePosition () [0x00000] in <filename unknown>:0 
+  at CameraControl.Move () [0x00000] in <filename unknown>:0 
+  at CameraControl.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Transform:INTERNAL_get_position (UnityEngine.Vector3&)
+  at UnityEngine.Transform.get_position () [0x00000] in <filename unknown>:0 
+  at CameraControl.FindAveragePosition () [0x00000] in <filename unknown>:0 
+  at CameraControl.Move () [0x00000] in <filename unknown>:0 
+  at CameraControl.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Transform:INTERNAL_get_position (UnityEngine.Vector3&)
+  at UnityEngine.Transform.get_position () [0x00000] in <filename unknown>:0 
+  at CameraControl.FindAveragePosition () [0x00000] in <filename unknown>:0 
+  at CameraControl.Move () [0x00000] in <filename unknown>:0 
+  at CameraControl.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Transform:INTERNAL_get_position (UnityEngine.Vector3&)
+  at UnityEngine.Transform.get_position () [0x00000] in <filename unknown>:0 
+  at CameraControl.FindAveragePosition () [0x00000] in <filename unknown>:0 
+  at CameraControl.Move () [0x00000] in <filename unknown>:0 
+  at CameraControl.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Transform:INTERNAL_get_position (UnityEngine.Vector3&)
+  at UnityEngine.Transform.get_position () [0x00000] in <filename unknown>:0 
+  at CameraControl.FindAveragePosition () [0x00000] in <filename unknown>:0 
+  at CameraControl.Move () [0x00000] in <filename unknown>:0 
+  at CameraControl.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Transform:INTERNAL_get_position (UnityEngine.Vector3&)
+  at UnityEngine.Transform.get_position () [0x00000] in <filename unknown>:0 
+  at CameraControl.FindAveragePosition () [0x00000] in <filename unknown>:0 
+  at CameraControl.Move () [0x00000] in <filename unknown>:0 
+  at CameraControl.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Transform:INTERNAL_get_position (UnityEngine.Vector3&)
+  at UnityEngine.Transform.get_position () [0x00000] in <filename unknown>:0 
+  at CameraControl.FindAveragePosition () [0x00000] in <filename unknown>:0 
+  at CameraControl.Move () [0x00000] in <filename unknown>:0 
+  at CameraControl.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Transform:INTERNAL_get_position (UnityEngine.Vector3&)
+  at UnityEngine.Transform.get_position () [0x00000] in <filename unknown>:0 
+  at CameraControl.FindAveragePosition () [0x00000] in <filename unknown>:0 
+  at CameraControl.Move () [0x00000] in <filename unknown>:0 
+  at CameraControl.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Transform:INTERNAL_get_position (UnityEngine.Vector3&)
+  at UnityEngine.Transform.get_position () [0x00000] in <filename unknown>:0 
+  at CameraControl.FindAveragePosition () [0x00000] in <filename unknown>:0 
+  at CameraControl.Move () [0x00000] in <filename unknown>:0 
+  at CameraControl.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Transform:INTERNAL_get_position (UnityEngine.Vector3&)
+  at UnityEngine.Transform.get_position () [0x00000] in <filename unknown>:0 
+  at CameraControl.FindAveragePosition () [0x00000] in <filename unknown>:0 
+  at CameraControl.Move () [0x00000] in <filename unknown>:0 
+  at CameraControl.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Transform:INTERNAL_get_position (UnityEngine.Vector3&)
+  at UnityEngine.Transform.get_position () [0x00000] in <filename unknown>:0 
+  at CameraControl.FindAveragePosition () [0x00000] in <filename unknown>:0 
+  at CameraControl.Move () [0x00000] in <filename unknown>:0 
+  at CameraControl.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Transform:INTERNAL_get_position (UnityEngine.Vector3&)
+  at UnityEngine.Transform.get_position () [0x00000] in <filename unknown>:0 
+  at CameraControl.FindAveragePosition () [0x00000] in <filename unknown>:0 
+  at CameraControl.Move () [0x00000] in <filename unknown>:0 
+  at CameraControl.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Transform:INTERNAL_get_position (UnityEngine.Vector3&)
+  at UnityEngine.Transform.get_position () [0x00000] in <filename unknown>:0 
+  at CameraControl.FindAveragePosition () [0x00000] in <filename unknown>:0 
+  at CameraControl.Move () [0x00000] in <filename unknown>:0 
+  at CameraControl.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Transform:INTERNAL_get_position (UnityEngine.Vector3&)
+  at UnityEngine.Transform.get_position () [0x00000] in <filename unknown>:0 
+  at CameraControl.FindAveragePosition () [0x00000] in <filename unknown>:0 
+  at CameraControl.Move () [0x00000] in <filename unknown>:0 
+  at CameraControl.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Transform:INTERNAL_get_position (UnityEngine.Vector3&)
+  at UnityEngine.Transform.get_position () [0x00000] in <filename unknown>:0 
+  at CameraControl.FindAveragePosition () [0x00000] in <filename unknown>:0 
+  at CameraControl.Move () [0x00000] in <filename unknown>:0 
+  at CameraControl.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Transform:INTERNAL_get_position (UnityEngine.Vector3&)
+  at UnityEngine.Transform.get_position () [0x00000] in <filename unknown>:0 
+  at CameraControl.FindAveragePosition () [0x00000] in <filename unknown>:0 
+  at CameraControl.Move () [0x00000] in <filename unknown>:0 
+  at CameraControl.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Transform:INTERNAL_get_position (UnityEngine.Vector3&)
+  at UnityEngine.Transform.get_position () [0x00000] in <filename unknown>:0 
+  at CameraControl.FindAveragePosition () [0x00000] in <filename unknown>:0 
+  at CameraControl.Move () [0x00000] in <filename unknown>:0 
+  at CameraControl.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Transform:INTERNAL_get_position (UnityEngine.Vector3&)
+  at UnityEngine.Transform.get_position () [0x00000] in <filename unknown>:0 
+  at CameraControl.FindAveragePosition () [0x00000] in <filename unknown>:0 
+  at CameraControl.Move () [0x00000] in <filename unknown>:0 
+  at CameraControl.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Transform:INTERNAL_get_position (UnityEngine.Vector3&)
+  at UnityEngine.Transform.get_position () [0x00000] in <filename unknown>:0 
+  at CameraControl.FindAveragePosition () [0x00000] in <filename unknown>:0 
+  at CameraControl.Move () [0x00000] in <filename unknown>:0 
+  at CameraControl.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Transform:INTERNAL_get_position (UnityEngine.Vector3&)
+  at UnityEngine.Transform.get_position () [0x00000] in <filename unknown>:0 
+  at CameraControl.FindAveragePosition () [0x00000] in <filename unknown>:0 
+  at CameraControl.Move () [0x00000] in <filename unknown>:0 
+  at CameraControl.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Transform:INTERNAL_get_position (UnityEngine.Vector3&)
+  at UnityEngine.Transform.get_position () [0x00000] in <filename unknown>:0 
+  at CameraControl.FindAveragePosition () [0x00000] in <filename unknown>:0 
+  at CameraControl.Move () [0x00000] in <filename unknown>:0 
+  at CameraControl.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Transform:INTERNAL_get_position (UnityEngine.Vector3&)
+  at UnityEngine.Transform.get_position () [0x00000] in <filename unknown>:0 
+  at CameraControl.FindAveragePosition () [0x00000] in <filename unknown>:0 
+  at CameraControl.Move () [0x00000] in <filename unknown>:0 
+  at CameraControl.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Transform:INTERNAL_get_position (UnityEngine.Vector3&)
+  at UnityEngine.Transform.get_position () [0x00000] in <filename unknown>:0 
+  at CameraControl.FindAveragePosition () [0x00000] in <filename unknown>:0 
+  at CameraControl.Move () [0x00000] in <filename unknown>:0 
+  at CameraControl.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Transform:INTERNAL_get_position (UnityEngine.Vector3&)
+  at UnityEngine.Transform.get_position () [0x00000] in <filename unknown>:0 
+  at CameraControl.FindAveragePosition () [0x00000] in <filename unknown>:0 
+  at CameraControl.Move () [0x00000] in <filename unknown>:0 
+  at CameraControl.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Transform:INTERNAL_get_position (UnityEngine.Vector3&)
+  at UnityEngine.Transform.get_position () [0x00000] in <filename unknown>:0 
+  at CameraControl.FindAveragePosition () [0x00000] in <filename unknown>:0 
+  at CameraControl.Move () [0x00000] in <filename unknown>:0 
+  at CameraControl.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Transform:INTERNAL_get_position (UnityEngine.Vector3&)
+  at UnityEngine.Transform.get_position () [0x00000] in <filename unknown>:0 
+  at CameraControl.FindAveragePosition () [0x00000] in <filename unknown>:0 
+  at CameraControl.Move () [0x00000] in <filename unknown>:0 
+  at CameraControl.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Transform:INTERNAL_get_position (UnityEngine.Vector3&)
+  at UnityEngine.Transform.get_position () [0x00000] in <filename unknown>:0 
+  at CameraControl.FindAveragePosition () [0x00000] in <filename unknown>:0 
+  at CameraControl.Move () [0x00000] in <filename unknown>:0 
+  at CameraControl.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Setting up 4 worker threads for Enlighten.
+  Thread -> id: 1450 -> priority: 1 
+  Thread -> id: 4bfc -> priority: 1 
+  Thread -> id: 3b74 -> priority: 1 
+  Thread -> id: f68 -> priority: 1 
